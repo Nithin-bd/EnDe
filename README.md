@@ -1,7 +1,7 @@
 
 # AES File Encryption and Decryption using Java Swings
 
-This project can be used as a Java applet. It encrypts and decrypts files within the same folder location using Advanced Encryption Standard (AES) 256, which is a symmetric encryption algorithm that uses a 256-bit key to convert your plain text or data into a cipher. 
+This project can be used as a executable Jar file. It encrypts and decrypts files within the same folder location using Advanced Encryption Standard (AES) 256, which is a symmetric encryption algorithm that uses a 256-bit key to convert your plain text or data into a cipher. 
 
 ![gui](https://github.com/Nithin-bd/EnDe/assets/83744735/53ea8ac2-e787-4e7e-8a6f-542952906c32)
 
